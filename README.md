@@ -1,4 +1,4 @@
-<img src="https://github.com/jzzhang3/jzzhang3.github.io/blob/master/docs/profile_pic.jpg" alt="drawing" width="200"/>
+<img src="docs/profile_pic.jpg" alt="drawing" width="200"/>
 
 ## About Me
 I am a fourth-year B.S. candidate in [Mechanical Engineering](https://www.me.gatech.edu/) with a minor in [Computing & Intelligence](https://www.cc.gatech.edu/content/minor-computing-intelligence) at the [Georgia Institute of Technology](https://www.gatech.edu/) expected to graduate in Spring 2022. I am an undergraduate researcher with the [LIDAR Group](http://lab-idar.gatech.edu/) advised by [Prof. Ye Zhao](https://sites.google.com/site/yezhaout) and the [CORE Robotics Lab](https://core-robotics.gatech.edu/) advised by [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). I am currently a Software Development Engineering Intern with the Dynamic Systems & Controls team at [Cummins Inc.](https://www.cummins.com/) developing control algorithms for the new electric bus systems.
