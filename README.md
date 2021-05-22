@@ -9,7 +9,7 @@ I am looking for PhD programs in Robotics and Computer Science starting in Fall 
 My undergraduate research focuses on modeling and control of highly dynamic robot behaviors such as bipedal locomotion and hand-grasping manipulation. My work leverages both low-level dynamics modeling and higher-level controls optimization. My current research reasons through contact uncertainty during trajectory optimization and motion planning phases in robot locomotion problems.
 
 ## News
-**May 2021** Submitted our latest work titled *Mediating between Contact Feasibility and Robustness of Trajectory Optimization through Chance Complementarity Constraints*[pdf](http://lab-idar.gatech.edu/wp-content/uploads/Publications/Chance_Constrained_Robust_CITO_2021.pdf) [code](https://github.com/GTLIDAR/ChanceConstrainedRobustCITO) to both [L-CSS](http://ieee-cssletters.dei.unipd.it/index.php) and arXiv
+**May 2021** Submitted our latest work titled *Mediating between Contact Feasibility and Robustness of Trajectory Optimization through Chance Complementarity Constraints* [[pdf]](http://lab-idar.gatech.edu/wp-content/uploads/Publications/Chance_Constrained_Robust_CITO_2021.pdf) [[code]](https://github.com/GTLIDAR/ChanceConstrainedRobustCITO) to both [L-CSS](http://ieee-cssletters.dei.unipd.it/index.php) and arXiv
 
 **May 2021** Started internship with the Dynamic Systems and Controls team at [Cummins](https://www.cummins.com/)
 
