@@ -9,6 +9,8 @@ I am looking for PhD programs in Robotics and Computer Science starting in Fall 
 My undergraduate research focuses on motion planning for dynamic systems through both model-based trajectory optmization and data-driven/machine learning methods.
 
 ## News
+**November 2021** Our paper *Mediating between Contact Feasibility and Robustness of Trajectory Optimization through Chance Complementarity Constraints* [[pdf]](http://lab-idar.gatech.edu/wp-content/uploads/Publications/Chance_Constrained_Robust_CITO_2021.pdf) [[code]](https://github.com/GTLIDAR/ChanceConstrainedRobustCITO)[[arXiv]](https://arxiv.org/abs/2105.09973) has been accepted to [Frontiers in Robotics and AI](https://www.frontiersin.org/research-topics/25532/advancements-in-trajectory-optimization-and-model-predictive-control-for-legged-systems)!
+
 **September 2021** Submitted our latest work titled *Mediating between Contact Feasibility and Robustness of Trajectory Optimization through Chance Complementarity Constraints* [[pdf]](http://lab-idar.gatech.edu/wp-content/uploads/Publications/Chance_Constrained_Robust_CITO_2021.pdf) [[code]](https://github.com/GTLIDAR/ChanceConstrainedRobustCITO)[[arXiv]](https://arxiv.org/abs/2105.09973) to [Frontiers in Robotics and AI](https://www.frontiersin.org/research-topics/25532/advancements-in-trajectory-optimization-and-model-predictive-control-for-legged-systems)
 
 **July 2021** Presented our work entitled *Can Chance-Constrained Contact Uncertainty Quantification Improve Feasibility of Robust Trajectory Optimization?* at [Dynamic Walking 2021](https://www.dynamicwalking2021.org/) [[poster]](docs/Chance%20Constraint%20Poster.pdf)
