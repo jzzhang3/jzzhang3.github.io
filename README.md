@@ -9,7 +9,7 @@ I am looking for PhD programs in Robotics and Computer Science starting in Fall 
 My undergraduate research focuses on motion planning for dynamic systems through both model-based trajectory optmization and data-driven/machine learning methods.
 
 ## News
-**Jan 2022** Our Chance Constraint paper (https://www.frontiersin.org/articles/10.3389/frobt.2021.785925/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Robotics_and_AI&id=785925) has been published!
+**Jan 2022** Our [Chance Constraint paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.785925/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Robotics_and_AI&id=785925) has been published!
 
 **November 2021** Our paper *Mediating between Contact Feasibility and Robustness of Trajectory Optimization through Chance Complementarity Constraints* [[pdf]](http://lab-idar.gatech.edu/wp-content/uploads/Publications/Chance_Constrained_Robust_CITO_2021.pdf) [[code]](https://github.com/GTLIDAR/ChanceConstrainedRobustCITO)[[arXiv]](https://arxiv.org/abs/2105.09973) has been accepted to [Frontiers in Robotics and AI](https://www.frontiersin.org/research-topics/25532/advancements-in-trajectory-optimization-and-model-predictive-control-for-legged-systems)!
 
