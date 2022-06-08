@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "John Zhang"
-  avatar           : "profile_pic.jpg"
+  avatar           : "/profile_pic.jpg"
   bio              : "MSR @ CMU"
   location         : "Atlanta, GA -> Pittsburgh, PA"
   googlescholar    : ""
