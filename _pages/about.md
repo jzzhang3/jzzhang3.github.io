@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming M.S. student in Robotics at Carnegie Mellon Univeristy. I currently work as a short-term Research Scientist with Prof. Matthew Gombolay. 
+I am an incoming M.S. student in Robotics at Carnegie Mellon Univeristy. I currently work as a short-term Research Scientist with Prof. Matthew Gombolay at Georgia Tech. 
 
-Previously, I received my B.S. in Mechanical Engineering at Georgia Tech where I was advised by Prof. Ye Zhao and Prof. Matthew Gombolay. My undergraduate research focused trajectory optmization and multi-agent reinforcement learning. 
+Previously, I received a B.S. in Mechanical Engineering with a minor in Computer Science at Georgia Tech. I was a researcher in the [Insititute for Robotics and Intelligent Machines (IRIM)](https://research.gatech.edu/robotics) at Georgia Tech where I was advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/) and [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). My undergraduate research focused on trajectory optmization through contact and multi-agent reinforcement learning in heterogeneous teams. 
 
 Research
 ======
