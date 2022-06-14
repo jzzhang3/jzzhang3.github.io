@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "John Zhang"
   avatar           : "/profile_pic.jpg"
-  bio              : "MSR @ CMU"
+  bio              : "Robotics Institute @ Carnegie Mellon University"
   location         : "Atlanta, GA -> Pittsburgh, PA"
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6YaGzpwAAAAJ"
   email            : "johnzhang@cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
