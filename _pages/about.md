@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming M.S. student in Robotics at Carnegie Mellon Univeristy. I currently work as a short-term Research Scientist with [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/) at Georgia Tech. 
+I am an incoming M.S. student in Robotics at the Carnegie Mellon Univeristy [Robotics Institute](https://www.ri.cmu.edu/). I currently work as a short-term Research Scientist with [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/) at Georgia Tech. 
 
-Previously, I graduated with a B.S. in Mechanical Engineering at Georgia Tech where I was advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/) and [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). My undergraduate research focused on Trajectory Optmization and Multi-agent Reinforcement Learning. 
+Previously, I graduated with a B.S. in Mechanical Engineering from the [Georgia Institute of Technology](https://www.gatech.edu/) where I was advised by [Prof. Ye Zhao](https://lab-idar.gatech.edu/) and [Prof. Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/). My undergraduate research focused on Trajectory Optmization and Multi-agent Reinforcement Learning. 
 
 In my free time, I love to cook, golf, hike, and travel, among many other things. 
 
@@ -21,6 +21,6 @@ My current research interests are two fold:
 
 1) Develop fast motion planning algorithms that enable robots to make and break contact efficiently and robustly. 
 
-2) Design sample efficient, end-to-end, Reinforcement Learning algorithms for multi-robot communication and collaboration in partially observable settings. 
+2) Design scable, sample efficient, end-to-end Reinforcement Learning algorithms for multi-robot communication and collaboration in partially observable settings. 
 
 
