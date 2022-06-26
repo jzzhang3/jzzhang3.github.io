@@ -18,7 +18,9 @@ In my free time, I love to cook, golf, hike, and travel, among many other things
 I am broadly interested in robot intelligence and decision making. My research goal is to enable intelligent robot behavior in the real world so robots can better integrate into our daily lives and explore harsh environments. 
 
 My current research interests are two fold: 
+
 1) Develop fast motion planning algorithms that enable robots to make and break contact efficiently and robustly. 
+
 2) Design sample efficient, end-to-end, Reinforcement Learning algorithms for multi-robot communication and collaboration in partially observable settings. 
 
 
