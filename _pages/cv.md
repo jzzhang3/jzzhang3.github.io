@@ -26,7 +26,7 @@ Full version of my [CV](/docs/John_Zhang_Curriculum_Vitae.pdf).
 ## Skills
 * Optimization: [SNOPT](https://web.stanford.edu/group/SOL/snopt.htm), [DGL](https://www.dgl.ai/), [Torch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/)
 * Programming: Python, MATLAB, [Julia](https://julialang.org/), C++
-* Robotics Simulation: [ROS](http://wiki.ros.org/), [Gazebo](https://gazebosim.org/home), [PyBullet](https://pybullet.org/wordpress/)
+* Simulation: [ROS](http://wiki.ros.org/), [Gazebo](https://gazebosim.org/home), [PyBullet](https://pybullet.org/wordpress/)
 * Visualization: [MeshCat](https://juliahub.com/ui/Packages/MeshCat/CZdjb/0.14.2), Adobe Illustrator
 
 ## Teaching
