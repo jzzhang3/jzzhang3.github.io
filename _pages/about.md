@@ -15,12 +15,12 @@ Previously, I graduated with a B.S. in Mechanical Engineering from the [Georgia 
 In my free time, I love to cook, golf, hike, and travel, among many other things. 
 
 ## Research
-I am broadly interested in robot intelligence and decision making. My research goal is to enable intelligent robot behavior in the real world so robots can better integrate into our daily lives and explore harsh environments. 
+I am broadly interested in intelligent robot behavior and decision making. My research goal is to push robotic systems in the laboratories into the real world so they can better integrate into our daily lives and explore harsh environments. 
 
 My current research interests are two fold: 
 
-1) Develop fast motion planning algorithms that enable robots to make and break contact efficiently and robustly. 
+1) Develop fast motion planning algorithms that enable robots to make and break contact efficiently and reliably. 
 
-2) Design scable, sample efficient, end-to-end Reinforcement Learning algorithms for multi-robot communication and collaboration in partially observable settings. 
+2) Design scalable, sample efficient, end-to-end learning algorithms for multi-robot communication and collaboration in partially observable settings. 
 
 
